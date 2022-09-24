@@ -1,2 +1,2 @@
 # jenkins-resources
-Ricardo Andrade resources from Udemy
+Ricardo Andrade resources by Udemy
